@@ -3,6 +3,27 @@
 - Crtl+Shift+F打开全局查找功能：
 - **Ctrl+Alt+L 格式化代码**
 
+Ctrl+Alt+V 对应 ctrl+2+l快捷键
+
+structure alt+7调出 可以查看类中的成员变量和方法
+
+Alt + Enter  对应于Ctrl+1
+
+Crtl+H 对应于Crtl+T
+
+Crtl+N 打开当前工程的类的文件（只打开。java文件
+
+Ctrl+Shift+N 查找文件（包括xml文件）
+
+Ctrl+Shift+Space 自动补全代码
+
+Ctrl+空格 代码提示
+
+Ctrl+F7可以查询当前元素在当前文件中的引用，然后按F3可以选择
+
+
+Shift+F6 重构-重命名
+
 Crtl+X 剪贴 删除本行 ，之前用Eclipse Ctrl+D 就是删除，在AndroidStudio 中是复制本行到下一行
 
 **Ctrl+N 查找类**
@@ -10,6 +31,8 @@ Crtl+X 剪贴 删除本行 ，之前用Eclipse Ctrl+D 就是删除，在AndroidS
 Ctrl+Shift+N 查找文件
 
 **Ctrl+Alt+L 格式化代码**
+
+选中文本，按Alt+F3 ，逐个往下查找相同文本，并高亮显示。 对应Eclipse的Ctrl+K
 
 Ctrl+Alt+O 优化导入的类和包
 
@@ -47,6 +70,8 @@ Ctrl+J 自动代码
 
 Ctrl+E 最近打开的文件
 
+ctrl+12 查看当前类中的方法
+
 **Ctrl+H 显示类结构图**
 
 Ctrl+Q 显示注释文档
@@ -76,6 +101,8 @@ Ctrl+W 选中代码，连续按会有其他效果
 Ctrl+Up/Down 光标跳转到第一行或最后一行下
 
 Ctrl+B 快速打开光标处的类或方法
+
+Refactor->Extract->Variable crtl+alt+f7生成全局变量
 
 ## 最常用快捷键 ##
 
