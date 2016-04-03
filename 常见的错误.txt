@@ -1,0 +1,20 @@
+
+Error:Execution failed for task 
+	
+	Error:(2, 0) Plugin with id 'com.github.dcendents.android-maven' not found.
+
+	apply plugin: 'com.jfrog.bintray'
+Error:(5, 0) Plugin with id 'com.jfrog.bintray' not found.
+解决方案
+  dependencies {
+        classpath 'com.github.dcendents:android-maven-plugin:1.2'
+        classpath 'com.android.tools.build:gradle:2.0.0-rc1'
+        classpath 'com.jfrog.bintray.gradle:gradle-bintray-plugin:1.0'
+        // NOTE: Do not place your application dependencies here; they belong
+        // in the individual module build.gradle files
+    }
+	
+	//apply from: '../gradle/maven_push.gradle'
+	将这一行注释掉
+	
+	Error:Cannot configure the 'publishing' extension after it has been accessed.
