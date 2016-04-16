@@ -1,0 +1,2 @@
+下按下win+R
+快捷键，再输入serices.msc即可启动services
