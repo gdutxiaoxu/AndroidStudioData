@@ -1,0 +1,4 @@
+ Unable to find instrumentation info for:
+ComponentInfo{com.employeeappv2.employeeappv2.test/android.test.InstrumentationTestRunner}
+
+找图片 解决AndroidStudio的测试的错误
