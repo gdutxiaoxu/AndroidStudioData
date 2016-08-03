@@ -9,6 +9,9 @@ structure alt+7调出 可以查看类中的成员变量和方法
 
 Alt + Enter  对应于Ctrl+1
 
+18.在一些地方按Alt＋Enter可以得到一些Intention Action，例如将”==”改为”equals()”】
+
+
 Crtl+H 对应于Crtl+T
 
 Crtl+N 打开当前工程的类的文件（只打开。java文件
@@ -25,6 +28,8 @@ Ctrl+F7可以查询当前元素在当前文件中的引用，然后按F3可以�
 Shift+F6 重构-重命名
 
 Crtl+X 剪贴 删除本行 ，之前用Eclipse Ctrl+D 就是删除，在AndroidStudio 中是复制本行到下一行
+
+basic
 
 **Ctrl+N 查找类**
 
